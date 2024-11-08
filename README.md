@@ -6,3 +6,7 @@
 
 3.) Slicers have been added to view the data according to a given state,grade of loan,purpose of loan etc.
 
+## These are the different pages of the app:
+![Screenshot 1](Page-1.png)
+![Screenshot 2](Page-2.png)
+![Screenshot 3](Page-3.png)
