@@ -1,6 +1,6 @@
 # Coffee-Shop-Sales-Excel-Dashboard-Project :)
 
-1.) An interactive dashboard has been made using Pwer BI for bank loan data.
+1.) An interactive dashboard has been made using Power BI for bank loan data.
 
 2.) Different charts have been plotted to study various trends such as Good Loan issued and Bad Loan issued,Total Loan Applications by month and by term and more.....
 
